@@ -1,0 +1,2 @@
+# SuperKahramanAnsiklopedisi-kotlin
+ kotlin uygulama
